@@ -16,7 +16,7 @@ I started coding when I was introduced to scratch. I started off using block Scr
 
 ### :briefcase: Credentials
 - Experience:
-  - Freelanced work for [Chi Square Consulting](chisquare-group.com) in time-series analysis
+  - Freelanced work for [Chi Square Consulting](https://chisquare-group.com/) in time-series analysis
   - Research Assisstant in Dynamic Programming
   - Self-Taught Developer (4 Years)
   - You can check out some of my (in-progress) projects here on my GitHub page!
