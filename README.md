@@ -31,11 +31,11 @@ I started coding when I was introduced to scratch. I started off using block Scr
 -----
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp&theme=dark)](https://skillicons.dev)
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,latex&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,eclipse,jetbrains&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-muthu)](https://github.com/anuraghazra/github-readme-stats)
