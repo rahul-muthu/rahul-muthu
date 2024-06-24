@@ -1,7 +1,7 @@
 ### Hi There! My name is Rahul.
 -----
 # :postbox: About Me
-My name is Rahul and I am a Computer Science student!
+My name is Rahul and I am a Computer Science student at Stony Brook University!
 
 ```cpp
 class AboutMe {
